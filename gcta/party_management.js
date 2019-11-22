@@ -96,8 +96,8 @@ function combine_functions(fn_name, new_function) {
         if (window[fn_name]) {
             window[fn_name + "_functions"].push(window[fn_name]);
         }
-        window[fn_name] = function (args) {
-            window[fn_name + "_functions"].forEach((fn) => fn(args));
+        window[fn_name] = function () {
+            window[fn_name + "_functions"].forEach((fn) => fn.apply(window, arguments));
         }
     }
     window[fn_name + "_functions"].push(new_function);
@@ -109,13 +109,13 @@ combine_functions("on_destroy", function() {
     delete parent.player_list;
 });
 
-combine_functions("on_party_invite", function() {
+combine_functions("on_party_invite", function(name) {
     if (name in party_list) {
         accept_party_invite(name);
     }
 });
 
-combine_functions("on_party_request", function() {
+combine_functions("on_party_request", function(name) {
     if (name in party_list) {
         accept_party_request(name);
     }
