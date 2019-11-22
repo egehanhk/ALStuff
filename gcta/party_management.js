@@ -1,26 +1,23 @@
-function load_party_list() {
-    const party_list_path = "https://raw.githubusercontent.com/egehanhk/ALStuff/master/gcta/gcta_groups.js";
+function get_party_list() {
+    const party_list_path = "https://raw.githubusercontent.com/egehanhk/ALStuff/master/gcta/gcta_groups.json";
 
     return new Promise((resolve, reject) => {
         const load_time = new Date();
-
-        // Append code to document
-        const append_script = (code_text) => {
-            const library = document.createElement("script");
-            library.type = "text/javascript";
-            library.text = code_text;
-            library.onerror = reject;
-            document.getElementsByTagName("head")[0].appendChild(library);
-        }
 
         const xhrObj = new XMLHttpRequest();
         xhrObj.open('GET', party_list_path, true);
         xhrObj.onload = function (e) {
             if (xhrObj.readyState === 4) {
                 if (xhrObj.status === 200) {
-                    append_script(xhrObj.responseText);
+
+                    try {
+                        const party_lists = JSON.parse(xhrObj.responseText);
+                        resolve(party_lists);
+                    } catch (e) {
+                        reject();
+                        return;
+                    }
                     game_log("Party list loaded. " + mssince(load_time) + " ms", "gray");
-                    resolve();
                 } else {
                     reject();
                 }
@@ -31,7 +28,17 @@ function load_party_list() {
     })
 }
 
-load_party_list();
+let party_list;
+get_party_list().then((party_lists)=>{
+    for (const group_name in party_lists) {
+        if (character.name in party_lists[group_name]) {
+            party_list = {...party_lists[group_name]};
+            break;
+        }
+    }
+}).catch(()=>{
+    game_log("Error retrieveing party lists", "red");
+});
 
 // Handles incoming players list
 function players_handler(event) {
