@@ -29,16 +29,21 @@ function get_party_list() {
 }
 
 let party_list;
-get_party_list().then((party_lists)=>{
-    for (const group_name in party_lists) {
-        if (character.name in party_lists[group_name]) {
-            party_list = {...party_lists[group_name]};
-            break;
+function update_party_list() {
+    get_party_list().then((party_lists)=>{
+        for (const group_name in party_lists) {
+            if (character.name in party_lists[group_name]) {
+                party_list = {...party_lists[group_name]};
+                break;
+            }
         }
-    }
-}).catch(()=>{
-    game_log("Error retrieveing party lists", "red");
-});
+    }).catch(()=>{
+        game_log("Error retrieveing party lists", "red");
+    });
+}
+
+update_party_list();
+setInterval(update_party_list, 3600000); // every hour
 
 // Handles incoming players list
 function players_handler(event) {
