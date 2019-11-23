@@ -1,7 +1,6 @@
 {
     "group_1": {
         "Trexnamedted": 1,
-        "CrownMage": 1,
         "Zorp": 1,
         "Zurp": 1,
         "Bjarny": 1,
@@ -13,7 +12,6 @@
         "CrownSpam": 1,
         "Zirp": 1,
         "Trexnamedtom": 1,
-        "CrownsAnal": 1,
         "Bjarne": 1,
         "Shana": 1
     },
@@ -24,6 +22,8 @@
         "Sutekh": "priest",
         "Setekh": "ranger",
         "FooBar": "warrior",
-        "Bjarni": "warrior"
+        "Bjarni": "warrior",
+        "CrownsAnal": "ranger",
+        "CrownMage": "mage"
     }
 }
