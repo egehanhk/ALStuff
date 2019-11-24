@@ -1,6 +1,5 @@
 {
     "group_1": {
-        "Trexnamedted": 1,
         "Zorp": 1,
         "Zurp": 1,
         "Bjarny": 1,
@@ -24,6 +23,7 @@
         "FooBar": "warrior",
         "Bjarni": "warrior",
         "CrownsAnal": "ranger",
-        "CrownMage": "mage"
+        "CrownMage": "mage",
+        "Trexnamedted": "priest"
     }
 }
