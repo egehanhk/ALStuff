@@ -1,29 +1,29 @@
 {
-    "group_1": {
-        "Zorp": 1,
-        "Zurp": 1,
-        "Bjarny": 1,
-        "Eyllis": 1,
-        "Mufffin": 1
-    },
-    "group_2": {
-        "Trexnamedtut": 1,
-        "CrownSpam": 1,
-        "Zirp": 1,
-        "Trexnamedtom": 1,
-        "Bjarne": 1,
-        "Shana": 1
-    },
-    "enters": {
-        "Aran": "warrior",
+    "outsiders": {
         "Nara": "priest",
         "Stabara": "rogue",
-        "Sutekh": "priest",
-        "Setekh": "ranger",
+        "Zorp": "mage",
+        "Zurp": "priest",
+        "Bjarny": "mage",
+        "Bjarne": "ranger",
+        "Eyllis": "priest",
+        "Mufffin": "mage"
+    },
+    "outsiders2": {
+        "Waterpumpee": "mage",
         "FooBar": "warrior",
+        "Trexnamedtut": "mage",
+        "Trexnamedted": "priest",
+        "CrownSpam": "mage",
+        "CrownMage": "mage"
+    },
+    "enters": {
         "Bjarni": "warrior",
+        "Zirp": "warrior",
+        "Shana": "warrior",
+        "Aran": "warrior",
+        "Setekh": "ranger",
         "CrownsAnal": "ranger",
-        "CrownMage": "mage",
-        "Trexnamedted": "priest"
+        "Trexnamedtom": "ranger"
     }
 }
