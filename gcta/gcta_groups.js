@@ -26,7 +26,7 @@ const party_lists = {
 
 let party_list = {};
 
-for (const group_name in party_lists) {
+for (group_name in party_lists) {
     if (character.name in party_lists[group_name]) {
         party_list = {...party_lists[group_name]};
         break;
