@@ -6,6 +6,7 @@ const party_lists = {
         Trexnamedtut: 1,
         Trexnamedtom: 1,
         CrownsAnal: 1,
+        Trexnamedtod: 1
     },
     group_2: {
         //Stabara: 1,
