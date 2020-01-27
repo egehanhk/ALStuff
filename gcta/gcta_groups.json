@@ -1,29 +1,13 @@
 {
-    "outsiders": {
-        "Nara": "priest",
-        "Aran": "warrior",
-        "Zorp": "mage",
-        "Zurp": "priest",
+    "main": {
+        "CrownSpam": "mage",
+        "CrownMage": "mage",
+        "CrownsAnal": "ranger",
         "Bjarny": "mage",
         "Bjarne": "ranger",
-        "Eyllis": "priest",
-        "Mufffin": "mage"
-    },
-    "outsiders2": {
-        "Waterpumpee": "mage",
-        "FooBar": "warrior",
+        "Bjarni": "warrior",
         "Trexnamedtut": "mage",
         "Trexnamedted": "priest",
-        "CrownSpam": "mage",
-        "CrownMage": "mage"
-    },
-    "enters": {
-        "Bjarni": "warrior",
-        "Zirp": "warrior",
-        "Shana": "warrior",
-        "Stabara": "rogue",
-        "Setekh": "ranger",
-        "CrownsAnal": "ranger",
-        "Trexnamedtom": "ranger"
+        "CrownsAnal": "ranger"
     }
 }
