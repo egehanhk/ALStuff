@@ -28,7 +28,7 @@ function get_party_list() {
     })
 }
 
-let party_list;
+let party_list = {};
 function update_party_list() {
     get_party_list().then((party_lists)=>{
         for (const group_name in party_lists) {
