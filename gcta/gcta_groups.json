@@ -1,13 +1,13 @@
 {
-    "main": {
-        "Bjarny": "mage",
-        "Bjarno": "priest",
-        "Bjarni": "warrior",
-        "Trexnamedtut": "mage",
+    "party1": {
+        "Trexnamedtom": "ranger",
+        "Pluu": "ranger",
         "Trexnamedted": "priest",
-        "Trexnamedtay": "mage",
-        "NexusNull": "ranger",
-        "Clover": "ranger",
-        "Arcus": "ranger"
+        "Trexnamedtut": "mage",
+        "Pluet": "mage",
+        "Plu2": "mage"
+    },
+    "party2": {
+        "Trexnamedtod": "merchant"
     }
 }
