@@ -9,6 +9,7 @@
         "Bjarni": "warrior"
     },
     "party2": {
-        "Trexnamedtod": "merchant"
+        "Trexnamedtod": "merchant",
+        "Bjarnu": "merchant"
     }
 }
