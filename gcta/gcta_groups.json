@@ -5,17 +5,18 @@
         "Trexnamedted": "priest",
         "Trexnamedtom": "ranger",
         "Pluet": "mage",
-        "Plu2": "mage",
         "Bjarni": "warrior"
     },
     "party2": {
         "Zuakio": "mage",
         "Vitaxa": "priest",
+        "Plu2": "mage",
         "Trexnamedtut": "mage"
     },
     "party3": {
         "Trexnamedtod": "merchant",
         "Bjarnu": "merchant",
-        "DagobertDuck": "merchant"
+        "DagobertDuck": "merchant",
+        "Ploob": "merchant"
     }
 }
