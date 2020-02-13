@@ -1,6 +1,6 @@
 {
     "party1": {
-        "Trexnamedtom": "ranger",
+        "Andastrax": "ranger",
         "Pluu": "ranger",
         "Trexnamedted": "priest",
         "Trexnamedtut": "mage",
@@ -9,6 +9,11 @@
         "Bjarni": "warrior"
     },
     "party2": {
+        "Zuakio": "mage",
+        "Vitaxa": "priest",
+        "Trexnamedtom": "ranger"
+    },
+    "party3": {
         "Trexnamedtod": "merchant",
         "Bjarnu": "merchant"
     }
