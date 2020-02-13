@@ -3,7 +3,7 @@
         "Andastrax": "ranger",
         "Pluu": "ranger",
         "Trexnamedted": "priest",
-        "Trexnamedtut": "mage",
+        "Trexnamedtom": "ranger",
         "Pluet": "mage",
         "Plu2": "mage",
         "Bjarni": "warrior"
@@ -11,7 +11,7 @@
     "party2": {
         "Zuakio": "mage",
         "Vitaxa": "priest",
-        "Trexnamedtom": "ranger"
+        "Trexnamedtut": "mage"
     },
     "party3": {
         "Trexnamedtod": "merchant",
