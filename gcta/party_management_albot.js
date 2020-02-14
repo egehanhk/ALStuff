@@ -1,4 +1,4 @@
-const node_https = require('https');
+const node_https = parent.require('https');
 
 function get_party_list() {
     const party_list_path = "https://raw.githubusercontent.com/egehanhk/ALStuff/master/gcta/gcta_groups.json";
@@ -16,7 +16,7 @@ function get_party_list() {
                     reject();
                     return;
                 }
-                game_log("Party list loaded. " + mssince(load_time) + " ms", "gray");
+                game_log("Party list loaded. " + (new Date().getTime() - load_time) + " ms", "gray");
                 return;
            });
         });
@@ -28,7 +28,7 @@ function update_party_list() {
     get_party_list().then((party_lists)=>{
         for (const group_name in party_lists) {
             if (character.name in party_lists[group_name]) {
-                party_list = {...party_lists[group_name]};
+                party_list = party_lists[group_name];
                 break;
             }
         }
@@ -51,6 +51,8 @@ parent.socket.on("players", players_handler);
 // Request player list
 setInterval(()=>{parent.socket.emit("players");}, 10000);
 
+// "players" event from server will attempt to run the function load_server_list(). This is to prevent error since it's not defined in albot
+function load_server_list() {}
 
 setInterval(()=>{
     // Find parties nearby and lonely dudes
