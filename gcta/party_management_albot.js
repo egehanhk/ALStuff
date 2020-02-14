@@ -98,14 +98,28 @@ setInterval(()=>{
     }
 }, 10000);
 
-function on_party_invite(name) {
+// For combining functions like on_destroy, on_party_invite, etc.
+function combine_functions(fn_name, new_function) {
+    if (!global[fn_name + "_functions"]) {
+        global[fn_name + "_functions"] = [];
+        if (global[fn_name]) {
+            global[fn_name + "_functions"].push(global[fn_name]);
+        }
+        global[fn_name] = function () {
+            global[fn_name + "_functions"].forEach((fn) => fn.apply(global, arguments));
+        }
+    }
+    global[fn_name + "_functions"].push(new_function);
+}
+
+combine_functions("on_party_invite", function(name) {
     if (name in party_list) {
         accept_party_invite(name);
     }
-}
+});
 
-function on_party_request(name) {
+combine_functions("on_party_request", function(name) {
     if (name in party_list) {
         accept_party_request(name);
     }
-}
+});
