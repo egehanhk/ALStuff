@@ -6,18 +6,18 @@
         "Pluet": "mage",
         "Plu2": "mage",
         "Trexnamedtut": "mage",
-        "Bjarni": "warrior"
+        "Warrior001": "warrior",
+        "Bjarni": "warrior",
+        "Rehkitz": "ranger"
     },
     "party2": {
         "Andastrax": "ranger",
         "Zuakio": "mage",
         "Vitaxa": "priest",
-        "Warrior001": "warrior",
         "Mage001": "mage",
         "Priest001": "priest",
         "Schlange": "rogue",
-        "Spinne": "rogue",
-        "Rehkitz": "ranger"
+        "Spinne": "rogue"
         
     },
     "party3": {
