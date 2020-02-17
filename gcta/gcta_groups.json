@@ -4,8 +4,6 @@
         "Trexnamedted": "priest",
         "Trexnamedtom": "ranger",
         "Pluet": "mage",
-        "Plu2": "mage",
-        "Trexnamedtut": "mage",
         "Warrior001": "warrior",
         "Bjarni": "warrior",
         "Rehkitz": "ranger"
@@ -17,6 +15,8 @@
         "Mage001": "mage",
         "Priest001": "priest",
         "Schlange": "rogue",
+        "Trexnamedtut": "mage",
+        "Plu2": "mage",
         "Spinne": "rogue"
         
     },
