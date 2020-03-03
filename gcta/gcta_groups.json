@@ -5,7 +5,7 @@
         "Warrior001": "warrior",
         "Bjarni": "warrior",
         "Zuakio": "mage",
-        "earthiverse": "ranger",
+        //"earthiverse": "ranger",
         "Rehkitz": "ranger",
         "Morcorino": "ranger"
     },
@@ -13,13 +13,13 @@
         "Andastrax": "ranger",
         "Mage001": "mage",
         "Schlange": "rogue",
-        "Trexnamedtut": "mage",
+        "Trexnamedted": "priest",
         "Plu2": "mage"
     },
     "party3": {
-        "Trexnamedted": "priest",
+        "Trexnamedtut": "mage",
         "Priest001": "priest",
-        "earthMag": "mage",
+        //"earthMag": "mage",
         "Pluet": "mage",
         "Vitaxa": "priest",
         "Spinne": "rogue"
