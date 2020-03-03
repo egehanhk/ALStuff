@@ -6,6 +6,7 @@
         "Bjarni": "warrior",
         "Zuakio": "mage",
         "Rehkitz": "ranger",
+        "earthiverse": "ranger",
         "Morcorino": "ranger"
     },
     "party2": {
@@ -16,6 +17,7 @@
         "Plu2": "mage"
     },
     "party3": {
+        "earthMag": "mage",
         "Trexnamedtut": "mage",
         "Priest001": "priest",
         "Pluet": "mage",
@@ -27,8 +29,4 @@
         "Bjarnu": "merchant",
         "Ploob": "merchant"
     },
-    "timeout": {
-        "earthMag": "mage",
-        "earthiverse": "ranger"
-    }
 }
