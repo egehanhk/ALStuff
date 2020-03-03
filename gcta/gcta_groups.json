@@ -2,27 +2,29 @@
     "party1": {
         "Pluu": "ranger",
         "Trexnamedtom": "ranger",
-        "Pluet": "mage",
         "Warrior001": "warrior",
         "Bjarni": "warrior",
         "Zuakio": "mage",
         "earthiverse": "ranger",
-        "earthMag": "mage",
-        "Rehkitz": "ranger"
+        "Rehkitz": "ranger",
+        "Morcorino": "ranger"
     },
     "party2": {
         "Andastrax": "ranger",
-        "Vitaxa": "priest",
         "Mage001": "mage",
-        "Priest001": "priest",
         "Schlange": "rogue",
         "Trexnamedtut": "mage",
-        "Trexnamedted": "priest",
-        "Plu2": "mage",
-        "Spinne": "rogue"
-        
+        "Plu2": "mage"
     },
     "party3": {
+        "Trexnamedted": "priest",
+        "Priest001": "priest",
+        "earthMag": "mage",
+        "Pluet": "mage",
+        "Vitaxa": "priest",
+        "Spinne": "rogue"
+    },
+    "merchants": {
         "Trexnamedtod": "merchant",
         "Bjarnu": "merchant",
         "Ploob": "merchant"
