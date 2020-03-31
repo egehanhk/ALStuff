@@ -6,9 +6,9 @@
         "Zuakio": "mage",
         "Rehkitz": "ranger",
         "earthiverse": "ranger",
-        "Morcorino": "ranger",
         "Bjarne": "ranger",
-        "CrownsAnal": "ranger"
+        "CrownsAnal": "ranger",
+        "Bjarny": "mage"
     },
     "party2": {
         "Andastrax": "ranger",
@@ -17,8 +17,7 @@
         "Trexnamedted": "priest",
         "Plu2": "mage",
         "CrownMage": "mage",
-        "earthMag2": "mage",
-        "Bjarny": "mage"
+        "earthMag2": "mage"
     },
     "party3": {
         "earthMag": "mage",
