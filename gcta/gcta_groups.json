@@ -3,13 +3,12 @@
         "Pluu": "ranger",
         "Trexnamedtom": "ranger",
         "Warrior001": "warrior",
-        "Bjarni": "warrior",
         "Zuakio": "mage",
         "Rehkitz": "ranger",
         "earthiverse": "ranger",
         "Morcorino": "ranger",
         "Bjarne": "ranger",
-        "Bjarny": "mage"
+        "CrownsAnal": "ranger"
     },
     "party2": {
         "Andastrax": "ranger",
@@ -17,7 +16,9 @@
         "Schlange": "rogue",
         "Trexnamedted": "priest",
         "Plu2": "mage",
-        "earthMag2": "mage"
+        "CrownMage": "mage",
+        "earthMag2": "mage",
+        "Bjarny": "mage"
     },
     "party3": {
         "earthMag": "mage",
@@ -25,6 +26,8 @@
         "Priest001": "priest",
         "Pluet": "mage",
         "Vitaxa": "priest",
+        "CrownSpam": "mage",
+        "Bjarni": "warrior",
         "Spinne": "rogue"
     },
     "merchants": {
@@ -33,6 +36,7 @@
         "Ploob": "merchant",
         "Biene": "merchant",
         "Merchant001": "merchant",
+        "CrownMerch": "merchant",
         "earthMer": "merchant"
     }
 }
