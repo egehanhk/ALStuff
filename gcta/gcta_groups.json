@@ -6,9 +6,9 @@
         "Zuakio": "mage",
         "Rehkitz": "ranger",
         "earthiverse": "ranger",
-        "Bjarne": "ranger",
-        "CrownsAnal": "ranger",
-        "Bjarny": "mage"
+        "Bjarny": "mage",
+        "Bjarni": "warrior",
+        "CrownsAnal": "ranger"
     },
     "party2": {
         "Andastrax": "ranger",
@@ -17,6 +17,7 @@
         "Trexnamedted": "priest",
         "Plu2": "mage",
         "CrownMage": "mage",
+        "Bjarne": "ranger",
         "earthMag2": "mage"
     },
     "party3": {
@@ -26,7 +27,6 @@
         "Pluet": "mage",
         "Vitaxa": "priest",
         "CrownSpam": "mage",
-        "Bjarni": "warrior",
         "Spinne": "rogue"
     },
     "merchants": {
