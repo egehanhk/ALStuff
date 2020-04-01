@@ -6,7 +6,6 @@
         "Zuakio": "mage",
         "Rehkitz": "ranger",
         "earthiverse": "ranger",
-        "Bjarny": "mage",
         "Bjarni": "warrior",
         "CrownsAnal": "ranger"
     },
@@ -27,7 +26,9 @@
         "Pluet": "mage",
         "Vitaxa": "priest",
         "CrownSpam": "mage",
-        "Spinne": "rogue"
+        "Spinne": "rogue",
+        "Bjarny": "mage",
+        "Bjarno": "priest"
     },
     "merchants": {
         "Trexnamedtod": "merchant",
