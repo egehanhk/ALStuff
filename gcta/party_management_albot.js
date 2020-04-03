@@ -26,6 +26,8 @@ function get_party_list() {
 let party_list = {};
 function update_party_list() {
     get_party_list().then((party_lists)=>{
+        parent.party_lists = party_lists;
+        parent.full_party_list = Object.values(party_lists).reduce(((r, c) => Object.assign(r, c)), {});
         for (const group_name in party_lists) {
             if (character.name in party_lists[group_name]) {
                 party_list = party_lists[group_name];
