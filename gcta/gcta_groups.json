@@ -16,7 +16,6 @@
         "Trexnamedted": "priest",
         "Plu2": "mage",
         "CrownMage": "mage",
-        "Bjarne": "ranger",
         "earthMag2": "mage"
     },
     "party3": {
@@ -27,8 +26,6 @@
         "Vitaxa": "priest",
         "CrownSpam": "mage",
         "Spinne": "rogue",
-        "Bjarny": "mage",
-        "Bjarno": "priest"
     },
     "merchants": {
         "Trexnamedtod": "merchant",
