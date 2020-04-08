@@ -6,7 +6,6 @@
         "Zuakio": "mage",
         "Rehkitz": "ranger",
         "earthiverse": "ranger",
-        "Bjarni": "warrior",
         "CrownsAnal": "ranger"
     },
     "party2": {
@@ -33,7 +32,6 @@
         "Ploob": "merchant",
         "Biene": "merchant",
         "Merchant001": "merchant",
-        "CrownMerch": "merchant",
-        "earthMer": "merchant"
+        "CrownMerch": "merchant"
     }
 }
