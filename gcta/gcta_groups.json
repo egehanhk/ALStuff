@@ -11,17 +11,19 @@
         "Mage001": "mage",
         "Schlange": "rogue",
         "Trexnamedted": "priest",
-        "earthMag2": "mage"
+        "earthMag2": "mage",
+        "Pluet": "mage",
+        "Pluu": "ranger"
     },
     "party3": {
         "earthMag": "mage",
         "Trexnamedtut": "mage",
         "Priest001": "priest",
-        "Pluet": "mage",
-        "Pluu": "ranger",
         "Plu2": "mage",
         "Vitaxa": "priest",
-        "Spinne": "rogue"
+        "Spinne": "rogue",
+        "Bjarne": "ranger",
+        "Joffre": "mage"
     },
     "merchants": {
         "Bjarnu": "merchant",
