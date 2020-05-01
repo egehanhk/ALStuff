@@ -4,6 +4,7 @@
         "Warrior001": "warrior",
         "Zuakio": "mage",
         "Rehkitz": "ranger",
+        "Priest001": "priest",
         "earthiverse": "ranger"
     },
     "party2": {
@@ -18,7 +19,6 @@
     "party3": {
         "earthMag": "mage",
         "Trexnamedtut": "mage",
-        "Priest001": "priest",
         "Plu2": "mage",
         "Vitaxa": "priest",
         "Spinne": "rogue",
