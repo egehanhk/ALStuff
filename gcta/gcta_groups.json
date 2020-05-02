@@ -4,7 +4,6 @@
         "Warrior001": "warrior",
         "Zuakio": "mage",
         "Rehkitz": "ranger",
-        "Priest001": "priest",
         "earthiverse": "ranger"
     },
     "party2": {
@@ -22,6 +21,7 @@
         "Plu2": "mage",
         "Vitaxa": "priest",
         "Spinne": "rogue",
+        "Priest001": "priest",
         "Bjarne": "ranger",
         "Joffre": "mage"
     },
