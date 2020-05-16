@@ -1,6 +1,5 @@
 {
     "party1": {
-        "Trexnamedtom": "ranger",
         "Warrior001": "warrior",
         "Zuakio": "mage",
         "Rehkitz": "ranger",
@@ -10,7 +9,6 @@
         "Andastrax": "ranger",
         "Mage001": "mage",
         "Schlange": "rogue",
-        "Trexnamedted": "priest",
         "earthMag2": "mage",
         "Pluet": "mage",
         "Pluu": "ranger"
@@ -24,6 +22,15 @@
         "Priest001": "priest",
         "Bjarne": "ranger",
         "Joffre": "mage"
+    },
+    "pppompom": {
+        "Bjarni": "warrior",
+        "Bjarny": "mage",
+        "Bjarno": "priest",
+        "Trexnamedtom": "ranger",
+        "Trexnamedted": "priest",
+        "Geocube": "priest",
+        "Miroko": "ranger"
     },
     "merchants": {
         "Bjarnu": "merchant",
