@@ -1,8 +1,6 @@
 {
     "party1": {
-        "Warrior001": "warrior",
         "Zuakio": "mage",
-        "Rehkitz": "ranger",
         "earthiverse": "ranger"
     },
     "party2": {
@@ -30,7 +28,9 @@
         "Trexnamedtom": "ranger",
         "Trexnamedted": "priest",
         "Geocube": "priest",
-        "Miroko": "ranger"
+        "Miroko": "ranger",
+        "Rehkitz": "ranger",
+        "Warrior001": "warrior"
     },
     "merchants": {
         "Bjarnu": "merchant",
