@@ -1,15 +1,13 @@
 {
-    "party1": {
-        "Zuakio": "mage",
-        "earthiverse": "ranger"
-    },
     "party2": {
         "Andastrax": "ranger",
         "Mage001": "mage",
         "Schlange": "rogue",
         "earthMag2": "mage",
         "Pluet": "mage",
-        "Pluu": "ranger"
+        "Pluu": "ranger",
+        "Zuakio": "mage",
+        "earthiverse": "ranger"
     },
     "party3": {
         "earthMag": "mage",
