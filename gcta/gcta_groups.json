@@ -1,5 +1,5 @@
 {
-    "party2": {
+    "party1": {
         "Andastrax": "ranger",
         "Mage001": "mage",
         "Schlange": "rogue",
@@ -7,9 +7,10 @@
         "Pluet": "mage",
         "Pluu": "ranger",
         "Zuakio": "mage",
+        "Trexnamedted": "priest",
         "earthiverse": "ranger"
     },
-    "party3": {
+    "party2": {
         "earthMag": "mage",
         "Trexnamedtut": "mage",
         "Plu2": "mage",
@@ -19,17 +20,15 @@
         "Bjarne": "ranger",
         "Joffre": "mage"
     },
-    "pppompom": {
+    "party3": {
         "Bjarni": "warrior",
         "Bjarny": "mage",
         "Bjarno": "priest",
         "Trexnamedtom": "ranger",
-        "Trexnamedted": "priest",
         "Moira": "warrior",
         "Miroko": "ranger",
         "Rehkitz": "ranger",
-        "Warrior001": "warrior",
-        "Trexnamedtay": "mage"
+        "Warrior001": "warrior"
     },
     "merchants": {
         "Bjarnu": "merchant",
