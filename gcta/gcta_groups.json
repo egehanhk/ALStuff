@@ -6,7 +6,6 @@
         "earthMag2": "mage",
         "Pluet": "mage",
         "Pluu": "ranger",
-        "Zuakio": "mage",
         "Trexnamedted": "priest",
         "earthiverse": "ranger"
     },
@@ -28,7 +27,8 @@
         "Moira": "warrior",
         "Miroko": "ranger",
         "Rehkitz": "ranger",
-        "Warrior001": "warrior"
+        "Warrior001": "warrior",
+        "Zuakio": "mage",
     },
     "merchants": {
         "Bjarnu": "merchant",
