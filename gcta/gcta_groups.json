@@ -14,8 +14,7 @@
         "Vitaxa": "priest",
         "Spinne": "rogue",
         "Priest001": "priest",
-        "Bjarne": "ranger",
-        "Joffre": "mage"
+        "Bjarne": "ranger"
     },
     "party3": {
         "Bjarni": "warrior",
@@ -30,7 +29,8 @@
     "fireroamers": {
         "Bjarno": "priest",
         "Trexnamedtut": "mage",
-        "Trexnamedted": "priest"
+        "Trexnamedted": "priest",
+        "Joffre": "mage"
     },
     "merchants": {
         "Bjarnu": "merchant",
