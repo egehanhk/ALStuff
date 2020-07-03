@@ -6,12 +6,10 @@
         "earthMag2": "mage",
         "Pluet": "mage",
         "Pluu": "ranger",
-        "Trexnamedted": "priest",
         "earthiverse": "ranger"
     },
     "party2": {
         "earthMag": "mage",
-        "Trexnamedtut": "mage",
         "Plu2": "mage",
         "Vitaxa": "priest",
         "Spinne": "rogue",
@@ -22,13 +20,17 @@
     "party3": {
         "Bjarni": "warrior",
         "Bjarny": "mage",
-        "Bjarno": "priest",
         "Trexnamedtom": "ranger",
         "Moira": "warrior",
         "Miroko": "ranger",
         "Rehkitz": "ranger",
         "Warrior001": "warrior",
         "Zuakio": "mage"
+    },
+    "fireroamers": {
+        "Bjarno": "priest",
+        "Trexnamedtut": "mage",
+        "Trexnamedted": "priest"
     },
     "merchants": {
         "Bjarnu": "merchant",
