@@ -18,7 +18,6 @@
     },
     "party3": {
         "Bjarni": "warrior",
-        "Bjarny": "mage",
         "Trexnamedtom": "ranger",
         "Moira": "warrior",
         "Miroko": "ranger",
@@ -30,7 +29,8 @@
         "Bjarno": "priest",
         "Trexnamedtut": "mage",
         "Trexnamedted": "priest",
-        "Joffre": "mage"
+        "Joffre": "mage",
+        "Bjarny": "mage"
     },
     "merchants": {
         "Bjarnu": "merchant",
