@@ -1,6 +1,5 @@
 {
     "party1": {
-        "Andastrax": "ranger",
         "Mage001": "mage",
         "Schlange": "rogue",
         "earthMag2": "mage",
@@ -11,13 +10,14 @@
     "party2": {
         "earthMag": "mage",
         "Plu2": "mage",
-        "Vitaxa": "priest",
         "Spinne": "rogue",
         "Priest001": "priest",
         "Bjarne": "ranger"
     },
     "party3": {
         "Bjarni": "warrior",
+        "Vitaxa": "priest",
+        "Andastrax": "ranger",
         "Trexnamedtom": "ranger",
         "Moira": "warrior",
         "Miroko": "ranger",
