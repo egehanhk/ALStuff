@@ -31,7 +31,10 @@
         "Trexnamedtut": "mage",
         "Trexnamedted": "priest",
         "Joffre": "mage",
-        "Bjarny": "mage"
+        "Bjarny": "mage",
+        "Prism": "priest",
+        "Image": "mage",
+        "Tower": "mage"
     },
     "merchants": {
         "Bjarnu": "merchant",
