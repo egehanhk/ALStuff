@@ -1,29 +1,12 @@
 {
     "party1": {
-        "Mage001": "mage",
-        "Schlange": "rogue",
-        "earthMag2": "mage",
-        "Pluet": "mage",
-        "Pluu": "ranger",
-        "earthiverse": "ranger"
     },
     "party2": {
-        "earthMag": "mage",
-        "Plu2": "mage",
-        "Spinne": "rogue",
-        "Priest001": "priest",
-        "Bjarne": "ranger"
     },
     "party3": {
-        "Bjarni": "warrior",
         "Vitaxa": "priest",
         "Andastrax": "ranger",
-        "Moira": "warrior",
-        "Miroko": "ranger",
-        "Rehkitz": "ranger",
-        "Warrior001": "warrior",
-        "Zuakio": "mage",
-        "Geocube": "priest"
+        "Zuakio": "mage"
     },
     "fireroamers": {
         "Bjarno": "priest",
@@ -32,9 +15,9 @@
         "Trexnamedtom": "ranger",
         "Joffre": "mage",
         "Bjarny": "mage",
-        "Prism": "priest",
-        "Image": "mage",
-        "Tower": "mage"
+        "Geocube": "priest",
+        "Bjarni": "warrior",
+        "Miroko": "ranger"
     },
     "merchants": {
         "Bjarnu": "merchant",
@@ -42,5 +25,20 @@
         "Trexnamedtod": "merchant",
         "Merchant001": "merchant",
         "Esgrobledard": "merchant"
+    },
+    "inactive": {
+        "Mage001": "mage",
+        "Priest001": "priest",
+        "Warrior001": "warrior",
+        "Schlange": "rogue",
+        "Spinne": "rogue",
+        "Rehkitz": "ranger",
+        "Pluet": "mage",
+        "Pluu": "ranger",
+        "Plu2": "mage",
+        "earthiverse": "ranger",
+        "earthMag": "mage",
+        "earthMag2": "mage",
+        "Moira": "warrior"
     }
 }
