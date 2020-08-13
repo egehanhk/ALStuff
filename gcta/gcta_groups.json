@@ -21,9 +21,7 @@
     },
     "merchants": {
         "Bjarnu": "merchant",
-        "Biene": "merchant",
         "Trexnamedtod": "merchant",
-        "Merchant001": "merchant",
         "Esgrobledard": "merchant"
     },
     "inactive": {
@@ -39,6 +37,8 @@
         "earthiverse": "ranger",
         "earthMag": "mage",
         "earthMag2": "mage",
-        "Moira": "warrior"
+        "Moira": "warrior",
+        "Merchant001": "merchant",
+        "Biene": "merchant"
     }
 }
