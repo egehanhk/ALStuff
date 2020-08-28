@@ -6,11 +6,15 @@
     "party3": {
         "Vitaxa": "priest",
         "Andastrax": "ranger",
-        "Zuakio": "mage"
+        "Zuakio": "mage",
+        "Trexnamedtut": "mage",
+        "Pauline": "warrior",
+        "Velexine": "ranger",
+        "Audrey": "priest"
     },
     "fireroamers": {
         "Bjarno": "priest",
-        "Trexnamedtut": "mage",
+        "Trexnamedtod": "merchant",
         "Trexnamedted": "priest",
         "Trexnamedtom": "ranger",
         "Joffre": "mage",
@@ -21,7 +25,6 @@
     },
     "merchants": {
         "Bjarnu": "merchant",
-        "Trexnamedtod": "merchant",
         "Esgrobledard": "merchant"
     },
     "inactive": {
