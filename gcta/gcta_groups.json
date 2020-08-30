@@ -21,7 +21,8 @@
         "Bjarny": "mage",
         "Geocube": "priest",
         "Bjarni": "warrior",
-        "Miroko": "ranger"
+        "Miroko": "ranger",
+        "Moira": "warrior"
     },
     "merchants": {
         "Bjarnu": "merchant",
@@ -40,7 +41,6 @@
         "earthiverse": "ranger",
         "earthMag": "mage",
         "earthMag2": "mage",
-        "Moira": "warrior",
         "Merchant001": "merchant",
         "Biene": "merchant"
     }
