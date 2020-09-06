@@ -8,15 +8,14 @@
         "Andastrax": "ranger",
         "Zuakio": "mage",
         "Trexnamedtut": "mage",
+        "Trexnamedted": "priest",
+        "Trexnamedtom": "ranger",
         "Pauline": "warrior",
         "Velexine": "ranger",
         "Audrey": "priest"
     },
     "fireroamers": {
         "Bjarno": "priest",
-        "Trexnamedtod": "merchant",
-        "Trexnamedted": "priest",
-        "Trexnamedtom": "ranger",
         "Joffre": "mage",
         "Bjarny": "mage",
         "Geocube": "priest",
@@ -26,6 +25,7 @@
     },
     "merchants": {
         "Bjarnu": "merchant",
+        "Trexnamedtod": "merchant",
         "Esgrobledard": "merchant"
     },
     "inactive": {
