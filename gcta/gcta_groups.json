@@ -14,14 +14,17 @@
         "Velexine": "ranger",
         "Audrey": "priest"
     },
-    "fireroamers": {
+    "oneeye": {
         "Bjarno": "priest",
         "Joffre": "mage",
         "Bjarny": "mage",
         "Geocube": "priest",
         "Bjarni": "warrior",
         "Miroko": "ranger",
-        "Moira": "warrior"
+        "Moira": "warrior",
+        "Mage001": "mage",
+        "Warrior001": "warrior",
+        "Rehkitz": "ranger"
     },
     "merchants": {
         "Bjarnu": "merchant",
@@ -29,12 +32,9 @@
         "Esgrobledard": "merchant"
     },
     "inactive": {
-        "Mage001": "mage",
         "Priest001": "priest",
-        "Warrior001": "warrior",
         "Schlange": "rogue",
         "Spinne": "rogue",
-        "Rehkitz": "ranger",
         "Pluet": "mage",
         "Pluu": "ranger",
         "Plu2": "mage",
