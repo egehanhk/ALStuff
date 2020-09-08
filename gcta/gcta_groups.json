@@ -1,8 +1,5 @@
 {
-    "separate_group": {
-        "Priest001": "priest",
-        "Schlange": "rogue",
-        "Spinne": "rogue"
+    "party1": {
     },
     "party2": {
         "Vitaxa": "priest",
@@ -15,7 +12,10 @@
         "Trexnamedtom": "ranger",
         "Pauline": "warrior",
         "Velexine": "ranger",
-        "Audrey": "priest"
+        "Audrey": "priest",
+        "Priest001": "priest",
+        "Schlange": "rogue",
+        "Spinne": "rogue"
     },
     "oneeye": {
         "Bjarno": "priest",
