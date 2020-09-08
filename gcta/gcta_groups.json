@@ -5,11 +5,11 @@
         "Spinne": "rogue"
     },
     "party2": {
-    },
-    "party3": {
         "Vitaxa": "priest",
         "Andastrax": "ranger",
-        "Zuakio": "mage",
+        "Zuakio": "mage"
+    },
+    "party3": {
         "Trexnamedtut": "mage",
         "Trexnamedted": "priest",
         "Trexnamedtom": "ranger",
