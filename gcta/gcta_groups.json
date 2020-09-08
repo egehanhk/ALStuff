@@ -1,5 +1,8 @@
 {
-    "party1": {
+    "separate_group": {
+        "Priest001": "priest",
+        "Schlange": "rogue",
+        "Spinne": "rogue"
     },
     "party2": {
     },
@@ -32,9 +35,6 @@
         "Esgrobledard": "merchant"
     },
     "inactive": {
-        "Priest001": "priest",
-        "Schlange": "rogue",
-        "Spinne": "rogue",
         "Pluet": "mage",
         "Pluu": "ranger",
         "Plu2": "mage",
