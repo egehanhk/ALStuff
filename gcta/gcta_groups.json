@@ -15,15 +15,15 @@
         "Audrey": "priest",
         "Priest001": "priest",
         "Schlange": "rogue",
-        "Spinne": "rogue"
+        "Spinne": "rogue",
+        "Mage001": "mage",
+        "Warrior001": "warrior",
+        "Rehkitz": "ranger"
     },
     "oneeye": {
         "Geocube": "priest",
         "Miroko": "ranger",
         "Moira": "warrior",
-        "Mage001": "mage",
-        "Warrior001": "warrior",
-        "Rehkitz": "ranger"
     },
     "merchants": {
         "Trexnamedtod": "merchant",
