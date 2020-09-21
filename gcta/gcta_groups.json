@@ -23,7 +23,8 @@
     "oneeye": {
         "Geocube": "priest",
         "Miroko": "ranger",
-        "Moira": "warrior"
+        "Moira": "warrior",
+        "Joffre": "mage"
     },
     "merchants": {
         "Trexnamedtod": "merchant",
