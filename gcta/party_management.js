@@ -52,12 +52,14 @@ function players_handler(event) {
     parent.player_list = event; // Party checking is done on this list
 }
 
-// Register event
-parent.socket.on("players", players_handler);
-
-// Request player list
-setInterval(()=>{parent.socket.emit("players");}, 10000);
-
+// Getting player list on pvp servers doesn't work
+if (!server.pvp) {
+    // Register event
+    parent.socket.on("players", players_handler);
+    
+    // Request player list
+    setInterval(()=>{parent.socket.emit("players");}, 10000);
+}
 
 setInterval(()=>{
     // Find parties nearby and lonely dudes
@@ -91,8 +93,8 @@ setInterval(()=>{
     if (character.party) parties_available.push(character.party);
     parties_available.sort();
     if (parties_available.length && parties_available[0] !== character.party) {
-        game_log("Left party to join " + parties_available[0] + "'s party", "gray");
-        leave_party();
+        game_log("Sent party request to join " + parties_available[0] + "'s party", "gray");
+        //leave_party(); no need to leave party anymore
         send_party_request(parties_available[0]);
     }
     else if (loners.length) {
@@ -119,8 +121,10 @@ function combine_functions(fn_name, new_function) {
 
 // Deregister event on code close
 combine_functions("on_destroy", function() {
-    parent.socket.removeListener("players", players_handler);
-    delete parent.player_list;
+    if (!server.pvp) {
+        parent.socket.removeListener("players", players_handler);
+        delete parent.player_list;
+    }
 });
 
 combine_functions("on_party_invite", function(name) {
