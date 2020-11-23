@@ -1,5 +1,14 @@
 {
-    "party1": {
+    "prat": {
+        "Bjarni": "warrior",
+        "Bjarna": "rogue",
+        "Bjarny": "mage",
+        "Zirp": "warrior",
+        "Zurp": "priest",
+        "Zorp": "mage",
+        "Shift": "mage",
+        "Ctrl": "rogue",
+        "Xampa": "ranger"
     },
     "party2": {
         "Vitaxa": "priest",
