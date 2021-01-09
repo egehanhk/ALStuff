@@ -23,7 +23,8 @@
         "Rehkitz": "ranger",
         "Ploob": "merchant",
         "Paloo": "priest",
-        "Jormun": "warrior"
+        "Pluet": "mage"
+        
     },
     "oneeye2": {
         "Trexnamedtut": "mage",
@@ -31,9 +32,7 @@
         "Schlange": "rogue",
         "Spinne": "rogue",
         "Mage001": "mage",
-        "Warrior001": "warrior",
-        "Rehkitz": "ranger",
-        "Haunted": "rogue"
+        "Pluu": "ranger"
     },
     "party3": {
         "Geocube": "priest",
@@ -46,8 +45,8 @@
         "Esgrobledard": "merchant"
     },
     "inactive": {
-        "Pluet": "mage",
-        "Pluu": "ranger",
+        "Haunted": "rogue",
+        "Jormun": "warrior",
         "Plu2": "mage",
         "earthiverse": "ranger",
         "earthMag": "mage",
