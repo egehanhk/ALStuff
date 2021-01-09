@@ -15,18 +15,27 @@
         "Andastrax": "ranger",
         "Zuakio": "mage"
     },
-    "party3": {
+    "oneeye": {
+        "Trexnamedtom": "ranger",
+        "Biene": "merchant",
+        "Warrior001": "warrior",
+        "Rehkitz": "ranger",
+        "Ploob": "merchant",
+        "Paloo": "priest",
+        "Jormun": "warrior"
+    },
+    "oneeye2": {
         "Trexnamedtut": "mage",
         "Trexnamedted": "priest",
-        "Trexnamedtom": "ranger",
         "Priest001": "priest",
         "Schlange": "rogue",
         "Spinne": "rogue",
         "Mage001": "mage",
         "Warrior001": "warrior",
-        "Rehkitz": "ranger"
+        "Rehkitz": "ranger",
+        "Haunted": "rogue"
     },
-    "oneeye": {
+    "party3": {
         "Geocube": "priest",
         "Miroko": "ranger",
         "Moira": "warrior",
@@ -44,7 +53,6 @@
         "earthMag": "mage",
         "earthMag2": "mage",
         "Merchant001": "merchant",
-        "Biene": "merchant",
         "Pauline": "warrior",
         "Velexine": "ranger",
         "Audrey": "priest"
