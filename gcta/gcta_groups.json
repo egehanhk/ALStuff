@@ -19,9 +19,6 @@
         "Trexnamedtut": "mage",
         "Trexnamedted": "priest",
         "Trexnamedtom": "ranger",
-        "Pauline": "warrior",
-        "Velexine": "ranger",
-        "Audrey": "priest",
         "Priest001": "priest",
         "Schlange": "rogue",
         "Spinne": "rogue",
@@ -47,6 +44,9 @@
         "earthMag": "mage",
         "earthMag2": "mage",
         "Merchant001": "merchant",
-        "Biene": "merchant"
+        "Biene": "merchant",
+        "Pauline": "warrior",
+        "Velexine": "ranger",
+        "Audrey": "priest"
     }
 }
