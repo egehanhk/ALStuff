@@ -15,9 +15,12 @@
         "Andastrax": "ranger",
         "Zuakio": "mage"
     },
-    "oneeye": {
+     "trex": {
         "Trexnamedtom": "ranger",
         "Trexnamedted": "priest",
+        "Trexnamedtut": "mage"
+    },
+    "oneeye": {
         "Biene": "merchant",
         "Warrior001": "warrior",
         "Rehkitz": "ranger",
@@ -26,7 +29,6 @@
         "Pluet": "mage"
     },
     "oneeye2": {
-        "Trexnamedtut": "mage",
         "Priest001": "priest",
         "Schlange": "rogue",
         "Spinne": "rogue",
