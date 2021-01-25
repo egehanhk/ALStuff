@@ -20,19 +20,20 @@
         "Trexnamedted": "priest",
         "Trexnamedtut": "mage"
     },
-    "oneeye": {
-        "Biene": "merchant",
+    "dreamers": {
         "Warrior001": "warrior",
         "Rehkitz": "ranger",
+        "Priest001": "priest",
+        "Schlange": "rogue",
+        "Spinne": "rogue",
+        "Mage001": "mage"
+    },
+    "oneeye": {
         "Ploob": "merchant",
         "Paloo": "priest",
         "Pluet": "mage"
     },
     "oneeye2": {
-        "Priest001": "priest",
-        "Schlange": "rogue",
-        "Spinne": "rogue",
-        "Mage001": "mage",
         "Pluu": "ranger"
     },
     "party3": {
