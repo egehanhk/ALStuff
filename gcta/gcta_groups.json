@@ -26,7 +26,8 @@
         "Priest001": "priest",
         "Schlange": "rogue",
         "Spinne": "rogue",
-        "Mage001": "mage"
+        "Mage001": "mage",
+        "Biene": "merchant"
     },
     "oneeye": {
         "Ploob": "merchant",
