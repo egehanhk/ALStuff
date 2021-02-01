@@ -27,8 +27,8 @@
         "Schlange": "rogue",
         "Spinne": "rogue",
         "Skorpion": "rogue",
-        "Mage001": "mage",
-        "Biene": "merchant"
+        "Mage001": "mage"
+       
     },
     "oneeye": {
         "Ploob": "merchant",
