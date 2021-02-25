@@ -1,11 +1,5 @@
 {
     "prat": {
-        "Bjarni": "warrior",
-        "Bjarna": "rogue",
-        "Bjarny": "mage",
-        "Zirp": "warrior",
-        "Zurp": "priest",
-        "Zorp": "mage",
         "Shift": "mage",
         "Ctrl": "rogue",
         "Xampa": "ranger"
@@ -42,7 +36,13 @@
         "Geocube": "priest",
         "Miroko": "ranger",
         "Moira": "warrior",
-        "Joffre": "mage"
+        "Joffre": "mage",
+        "Bjarni": "warrior",
+        "Bjarna": "rogue",
+        "Bjarno": "priest",
+        "Zirp": "warrior",
+        "Zurp": "priest",
+        "Zorp": "mage"
     },
     "merchants": {
         "Trexnamedtod": "merchant",
