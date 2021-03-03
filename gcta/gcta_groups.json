@@ -21,7 +21,10 @@
         "Schlange": "rogue",
         "Spinne": "rogue",
         "Rehkitz": "ranger",
-        "Rogue002": "rogue"
+        "Rogue002": "rogue",
+        "RisingVanir": "rogue",
+        "RisingLyra": "priest",
+        "RisingKyron": "warrior"
        
     },
     "oneeye": {
