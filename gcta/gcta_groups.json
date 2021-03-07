@@ -15,16 +15,13 @@
         "Trexnamedtut": "mage"
     },
     "dreamers": {
-        "Rogue001": "rogue",
+        "Mage001": "mage",
         "Rehkitz": "ranger",
         "Priest001": "priest",
         "Schlange": "rogue",
         "Spinne": "rogue",
         "Rehkitz": "ranger",
-        "Rogue002": "rogue",
-        "RisingVanir": "rogue",
-        "RisingLyra": "priest",
-        "RisingKyron": "warrior"
+        "Rogue002": "rogue"
        
     },
     "oneeye": {
