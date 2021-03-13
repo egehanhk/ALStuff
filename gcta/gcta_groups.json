@@ -20,9 +20,7 @@
         "Priest001": "priest",
         "Schlange": "rogue",
         "Spinne": "rogue",
-        "Rehkitz": "ranger",
         "Rogue002": "rogue"
-       
     },
     "oneeye": {
         "Ploob": "merchant",
@@ -41,6 +39,7 @@
         "Bjarni": "warrior",
         "Bjarna": "rogue",
         "Bjarno": "priest",
+        "Bjarny": "mage",
         "Zirp": "warrior",
         "Zurp": "priest",
         "Zorp": "mage"
